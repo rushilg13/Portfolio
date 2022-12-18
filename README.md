@@ -72,3 +72,6 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+
+### Template used
+[soumyajit4419](https://github.com/soumyajit4419/Portfolio)
