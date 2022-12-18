@@ -50,8 +50,8 @@ function Projects() {
               isBlog={false}
               title="Happy Times!"
               description="Developed a Full stack web app that uses FARM stack and NLP to classify News based on headlines as positive or negative"
-              ghLink="https://github.com/rushilg13/GoodNews"
-              demoLink="https://cutt.ly/OOGMHZp"
+              ghLink="https://github.com/rushilg13/happy-times"
+              demoLink="happy-times.netlify.app"
             />
           </Col>
 
