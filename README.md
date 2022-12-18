@@ -3,7 +3,7 @@
   <a href="https://rushilg13.netlify.app/" target="_blank">https://rushilg13.netlify.app/</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
