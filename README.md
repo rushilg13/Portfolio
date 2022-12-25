@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website <br/>
   <a href="https://rushilg13.netlify.app/" target="_blank">https://rushilg13.netlify.app/</a>
 </h2>
 <div align="center">
